@@ -1,5 +1,6 @@
 terraform {
   required_version = "> 0.12"
+  region = "ap-south-1"
 
 }
 
